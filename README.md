@@ -1,6 +1,6 @@
 # 📈 Unit Economics Analysis
 
-This project provides a comprehensive unit economics analysis for **Streamline Pro**, a SaaS product developed by **TechStream Solutions**. It uses historical data to calculate and interpret key financial metrics such as customer acquisition cost (CAC), customer lifetime value (LTV), gross margin, and more. The goal is to assess the financial health and scalability of the product on a per-customer basis.
+This project provides a comprehensive unit economics analysis for **Streamline Pro**, a SaaS product developed by **TechStream Solutions**. It uses historical data to calculate and interpret key financial metrics such as customer acquisition cost (CAC), customer lifetime value (LTV), gross margin and more. The goal is to assess the financial health and scalability of the product on a per-customer basis.
 
 ---
 
@@ -8,7 +8,7 @@ This project provides a comprehensive unit economics analysis for **Streamline P
 
 TechStream Solutions is a SaaS company offering a project management and collaboration platform called **Streamline Pro**, designed for businesses of all sizes. As part of a strategic business review, TechStream Solutions is looking to assess the profitability and sustainability of its operations through a detailed **unit economics analysis**.
 
-As a newly hired **Data Analyst**, your task is to perform this analysis using historical data on customer acquisition, revenue generation, and operating costs.
+As a newly hired **Data Analyst**, the task is to perform this analysis using historical data on customer acquisition, revenue generation, and operating costs.
 
 ### 🔍 Objectives
 
