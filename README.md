@@ -8,7 +8,7 @@ This project provides a comprehensive unit economics analysis for **Streamline P
 
 TechStream Solutions is a SaaS company offering a project management and collaboration platform called **Streamline Pro**, designed for businesses of all sizes. As part of a strategic business review, TechStream Solutions is looking to assess the profitability and sustainability of its operations through a detailed **unit economics analysis**.
 
-As a newly hired **Data Analyst**, the task is to perform this analysis using historical data on customer acquisition, revenue generation, and operating costs.
+As a newly hired **Data Analyst**, the assigned task is to perform this analysis using historical data on customer acquisition, revenue generation, and operating costs.
 
 ### 🔍 Objectives
 
