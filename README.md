@@ -43,4 +43,4 @@ The unit economics model focuses on the following core metrics:
 | Cost of Goods Sold (COGS)       | 20,264      |
 | Gross Margin (%)                | 75.60%      |
 
-> These metrics reflect a strong and scalable business model with an outstanding **LTV/CAC ratio** and healthy **gross margin**, indicating efficient growth and high customer profitability.
+These metrics reflect a strong and scalable business model with an outstanding **LTV/CAC ratio** and healthy **gross margin**, indicating efficient growth and high customer profitability.
